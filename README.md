@@ -259,6 +259,21 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [dcept - A tool for deploying and detecting use of Active Directory honeytokens](https://github.com/secureworks/dcept)
 * [LogonTracer - Investigate malicious Windows logon by visualizing and analyzing Windows event log](https://github.com/JPCERTCC/LogonTracer)
 
+### Detection
+|Attack|Event ID|
+|------|--------|
+|Account and Group Enumeration|4798: A user's local group membership was enumerated<br>4799: A security-enabled local group membership was enumerated|
+|AdminSDHolder|4780: The ACL was set on accounts which are members of administrators groups|
+|Kekeo|4624: Account Logon<br>4672: Admin Logon<br>4768: Kerberos TGS Request|
+|Silver	Ticket|4624: Account Logon<br>4634: Account Logoff<br>4672: Admin Logon|
+|Golden	Ticket|4624: Account Logon<br>4672: Admin Logon|
+|PowerShell|4103: Script Block Logging<br>400: Engine Lifecycle<br>403: Engine Lifecycle<br>4103: Module Logging<br>600: Provider Lifecycle<br>|
+|DCShadow|4742: A computer account was changed<br>5137: A directory service object was created<br>5141: A directory service object was deleted<br>4929: An Active Directory replica source naming context was removed|
+|Skeleton Keys|4673: A privileged service was called<br>4611: A trusted logon process has been registered with the Local Security Authority<br>4688: A new process has been created<br>4689: A new process has exited|
+|PYKEK MS14-068|4672: Admin Logon<br>4624: Account Logon<br>4768: Kerberos TGS Request|
+|Kerberoasting|4769: A Kerberos ticket was requested|
+|Lateral Movement|4688: A new process has been created<br>4689: A process has exited<br>4624: An account was successfully logged on<br>4625: An account failed to log on|
+
 ### Resources
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
 * [Securing Domain Controllers to Improve Active Directory Security](https://adsecurity.org/?p=3377)
@@ -297,6 +312,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Mimikatz Overview, Defenses and Detection](https://www.sans.org/reading-room/whitepapers/detection/mimikatz-overview-defenses-detection-36780)
 * [Hunting for Gargoyle Memory Scanning Evasion](https://www.countercept.com/blog/hunting-for-gargoyle/)
 * [Planning and getting started on the Windows Defender Application Control deployment process](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control-deployment-guide)
+* [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
