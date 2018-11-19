@@ -289,6 +289,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Talk Transcript BSidesCharm Detecting the Elusive: Active Directory Threat Hunting](https://www.trimarcsecurity.com/single-post/Detecting-the-Elusive-Active-Directory-Threat-Hunting)
 * [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [Understanding "Red Forest" - The 3-Tier ESAE and Alternative Ways to Protect Privileged Credentials](https://www.slideshare.net/QuestSoftware/understanding-red-forest-the-3tier-esae-and-alternative-ways-to-protect-privileged-credentials)
+* [Aorato Skeleton Key Malware Remote DC Scanner](https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73)
 * [Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events](https://github.com/shellster/DCSYNCMonitor)
 * [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 * [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
