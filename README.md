@@ -222,6 +222,10 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Skeleton Key](https://pentestlab.blog/2018/04/10/skeleton-key/)
 * [Attackers Can Now Use Mimikatz to Implant Skeleton Key on Domain Controllers & BackDoor Your Active Directory Forest](https://adsecurity.org/?p=1275)
 
+### SeEnableDelegationPrivilege
+* [The Most Dangerous User Right You (Probably) Have Never Heard Of](https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
+* [SeEnableDelegationPrivilege Active Directory Backdoor](https://www.youtube.com/watch?v=OiqaO9RHskU)
+
 ### Security Support Provider
 * [Sneaky Active Directory Persistence #12: Malicious Security Support Provider (SSP)](https://adsecurity.org/?p=1760)
 
