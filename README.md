@@ -253,8 +253,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Net Cease - Hardening Net Session Enumeration](https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b)
 * [PingCastle Active Directory Security Audit](https://www.pingcastle.com/)
 * [Reset the krbtgt account password/keys](https://gallery.technet.microsoft.com/Reset-the-krbtgt-account-581a9e51)
-* [A PowerShell module to deploy active directory decoy objects](https://github.com/samratashok/Deploy-Deception)
-* [A tool for deploying and detecting use of Active Directory honeytokens](https://github.com/secureworks/dcept)
+* [Deploy-Deception - A PowerShell module to deploy active directory decoy objects](https://github.com/samratashok/Deploy-Deception)
+* [dcept - A tool for deploying and detecting use of Active Directory honeytokens](https://github.com/secureworks/dcept)
 
 ### Resources
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
@@ -282,6 +282,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Windows 10 Credential Theft Mitigation Guide](https://download.microsoft.com/download/C/1/4/C14579CA-E564-4743-8B51-61C0882662AC/Windows%2010%20credential%20theft%20mitigation%20guide.docx)
 * [Detecting Pass-The- Ticket and Pass-The- Hash Attack Using Simple WMI Commands](https://blog.javelin-networks.com/detecting-pass-the-ticket-and-pass-the-hash-attack-using-simple-wmi-commands-2c46102b76bc)
 * [Step by Step Deploy Microsoft Local Administrator Password Solution](https://gallery.technet.microsoft.com/Step-by-Step-Deploy-Local-7c9ef772)
+* [Active Directory Security Best Practices](https://www.troopers.de/downloads/troopers17/TR17_AD_signed.pdf)
 * [Finally Deploy and Audit LAPS with Project VAST, Part 1 of 2](https://blogs.technet.microsoft.com/jonsh/2018/10/03/finally-deploy-and-audit-laps-with-project-vast-part-1-of-2/)
 * [Windows Security Log Events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
 * [Talk Transcript BSidesCharm Detecting the Elusive: Active Directory Threat Hunting](https://www.trimarcsecurity.com/single-post/Detecting-the-Elusive-Active-Directory-Threat-Hunting)
