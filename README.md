@@ -253,6 +253,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Net Cease - Hardening Net Session Enumeration](https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b)
 * [PingCastle Active Directory Security Audit](https://www.pingcastle.com/)
 * [Reset the krbtgt account password/keys](https://gallery.technet.microsoft.com/Reset-the-krbtgt-account-581a9e51)
+* [A PowerShell module to deploy active directory decoy objects](https://github.com/samratashok/Deploy-Deception)
+* [A tool for deploying and detecting use of Active Directory honeytokens](https://github.com/secureworks/dcept)
 
 ### Resources
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
