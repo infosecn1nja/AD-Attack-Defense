@@ -12,7 +12,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Credential Dumping](#credential-dumping)
 * [Lateral Movement](#lateral-movement)
 * [Persistence](#persistence)
-* [Defense & Detection](#defense%26detection)
+* [Defense & Detection](#defense-&-detection)
 
 <hr>
 
@@ -273,6 +273,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 |PYKEK MS14-068|4672: Admin Logon<br>4624: Account Logon<br>4768: Kerberos TGS Request|
 |Kerberoasting|4769: A Kerberos ticket was requested|
 |Lateral Movement|4688: A new process has been created<br>4689: A process has exited<br>4624: An account was successfully logged on<br>4625: An account failed to log on|
+|DCSync|4662: An operation was performed on an object|
 
 ### Resources
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
