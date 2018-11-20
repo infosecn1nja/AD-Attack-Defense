@@ -180,6 +180,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Cracking Kerberos TGS Tickets Using Kerberoast – Exploiting Kerberos to Compromise the Active Directory Domain](https://adsecurity.org/?p=2293)
 * [Extracting Service Account Passwords With Kerberoasting](https://blog.stealthbits.com/extracting-service-account-passwords-with-kerberoasting/)
 * [Cracking Service Account Passwords with Kerberoasting](https://www.cyberark.com/blog/cracking-service-account-passwords-kerberoasting/)
+* [Kerberoast PW list for cracking passwords with complexity requirements](https://gist.github.com/edermi/f8b143b11dc020b854178d3809cf91b5)
 
 ### Kerberos AP-REP Roasting
 * [Roasting AS-REPs](http://www.harmj0y.net/blog/activedirectory/roasting-as-reps/) 
