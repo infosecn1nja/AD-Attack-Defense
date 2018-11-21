@@ -1,6 +1,6 @@
 # Active Directory Kill Chain Attack & Defense
 
-<img width="650" src="https://camo.githubusercontent.com/9547d8152e3490a6e5e3da0279faab64340885be/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f616476616e6365642d7468726561742d616e616c79746963732f6d656469612f61747461636b2d6b696c6c2d636861696e2d736d616c6c2e6a7067">
+![Active Directory Kill Chain Attack Schema](https://camo.githubusercontent.com/9547d8152e3490a6e5e3da0279faab64340885be/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f616476616e6365642d7468726561742d616e616c79746963732f6d656469612f61747461636b2d6b696c6c2d636861696e2d736d616c6c2e6a7067)
 
 ## Summary
 This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
@@ -14,7 +14,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Persistence](#persistence)
 * [Defense & Detection](#defense-&-detection)
 
-<hr>
+------
 
 ## Discovery
 ### SPN Scanning
@@ -40,7 +40,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Running LAPS with PowerView](https://www.harmj0y.net/blog/powershell/running-laps-with-powerview/)
 * [RastaMouse LAPS Part 1 & 2](https://rastamouse.me/tags/laps/)
 
-<hr>
+------
 
 ## Privilege Escalation
 ### Passwords in SYSVOL & Group Policy Preferences
@@ -104,7 +104,7 @@ This document was designed to be a useful, informational asset for those looking
 ### Red Forest
 * [Attack and defend Microsoft Enhanced Security Administrative](https://download.ernw-insight.de/troopers/tr18/slides/TR18_AD_Attack-and-Defend-Microsoft-Enhanced-Security.pdf)
 
-<hr>
+------
 
 ## Lateral Movement
 ### Microsoft SQL Server Database links
@@ -126,7 +126,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Password Spraying Windows Active Directory Accounts - Tradecraft Security Weekly #5](https://www.youtube.com/watch?v=xB26QhnL64c)
 * [Attacking Exchange with MailSniper](https://www.blackhillsinfosec.com/attacking-exchange-with-mailsniper/)
 
-<hr>
+------
 
 ## Defense Evasion
 
@@ -168,7 +168,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Forging Trusts for Deception in Active Directory](http://www.labofapenetrationtester.com/2018/10/deploy-deception.html)
 * [Honeypot Buster: A Unique Red-Team Tool](https://jblog.javelin-networks.com/blog/the-honeypot-buster/)
 
-<hr>
+------
 
 ## Credential Dumping
 ### NTDS.DIT Password Extraction
@@ -195,7 +195,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ### LLMNR/NBT-NS Poisoning
 * [LLMNR/NBT-NS Poisoning Using Responder](https://www.4armed.com/blog/llmnr-nbtns-poisoning-using-responder/)
 
-<hr>
+------
 
 ## Persistence
 ### Golden Ticket
@@ -250,7 +250,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Mimikatz](https://github.com/gentilkiwi/mimikatz) - Utility to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory but also perform pass-the-hash, pass-the-ticket or build Golden tickets
 * [Grouper](https://github.com/l0ss/Grouper) - A PowerShell script for helping to find vulnerable settings in AD Group Policy.
 * [Tools Cheat Sheets](https://github.com/HarmJ0y/CheatSheets) - Tools (PowerView, PowerUp, Empire, and PowerSploit)
-<hr>
+
+------
 
 ## Defense & Detection
 ### Tools & Scripts
