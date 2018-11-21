@@ -81,6 +81,7 @@ This document was designed to be a useful, informational asset for those looking
 ](http://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/)
 * [BloodHound 1.3 – The ACL Attack Path Update](https://wald0.com/?p=112)
 * [Scanning for Active Directory Privileges & Privileged Accounts](https://adsecurity.org/?p=3658)
+* [Active Directory Access Control List – Attacks and Defense](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Active-Directory-Access-Control-List-8211-Attacks-and-Defense/ba-p/250315)
 
 ### Domain Trusts
 * [A Guide to Attacking Domain Trusts](http://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
