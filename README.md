@@ -127,7 +127,7 @@ This document was designed to be a useful, informational asset for those looking
 ### Password Spraying
 * [Password Spraying Windows Active Directory Accounts - Tradecraft Security Weekly #5](https://www.youtube.com/watch?v=xB26QhnL64c)
 * [Attacking Exchange with MailSniper](https://www.blackhillsinfosec.com/attacking-exchange-with-mailsniper/)
-
+* [A Password Spraying tool for Active Directory Credentials by Jacob Wilkin](https://github.com/SpiderLabs/Spray)
 ------
 
 ## Defense Evasion
@@ -176,6 +176,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ### NTDS.DIT Password Extraction
 * [How Attackers Pull the Active Directory Database (NTDS.dit) from a Domain Controller](https://adsecurity.org/?p=451)
 * [Extracting Password Hashes From The Ntds.dit File](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/)
+
+### SAM (Security Accounts Manager)
+* [Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS](https://github.com/eladshamir/Internal-Monologue)
 
 ### Kerberoasting
 * [Kerberoasting Without Mimikatz](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
