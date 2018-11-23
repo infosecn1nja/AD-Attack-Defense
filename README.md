@@ -198,6 +198,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Mimikatz DCSync Usage, Exploitation, and Detection](https://adsecurity.org/?p=1729)
 
 ### LLMNR/NBT-NS Poisoning
+* [Pwning with Responder – A Pentester’s Guide](https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/)
 * [LLMNR/NBT-NS Poisoning Using Responder](https://www.4armed.com/blog/llmnr-nbtns-poisoning-using-responder/)
 
 ------
