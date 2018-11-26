@@ -34,6 +34,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Dumping Active Directory Domain Info – with PowerUpSQL!](https://blog.netspi.com/dumping-active-directory-domain-info-with-powerupsql/)
 * [Local Group Enumeration](https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
 * [Attack Mapping With Bloodhound](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
+* [Situational Awareness](https://pentestlab.blog/2018/05/28/situational-awareness/)
 
 ### LAPS
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
@@ -273,6 +274,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ## Cheat Sheets
 * [Tools Cheat Sheets](https://github.com/HarmJ0y/CheatSheets) - Tools (PowerView, PowerUp, Empire, and PowerSploit)
 * [DogWhisperer - BloodHound Cypher Cheat Sheet (v2)](https://github.com/SadProcessor/Cheats/blob/master/DogWhispererV2.md)
+* [PowerView-3.0 tips and tricks](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
+* [PowerView-2.0 tips and tricks](https://gist.github.com/HarmJ0y/3328d954607d71362e3c)
 ------
 
 ## Defense & Detection
