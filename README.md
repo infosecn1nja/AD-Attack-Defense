@@ -178,6 +178,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ------
 
 ## Credential Dumping
+
 ### NTDS.DIT Password Extraction
 * [How Attackers Pull the Active Directory Database (NTDS.dit) from a Domain Controller](https://adsecurity.org/?p=451)
 * [Extracting Password Hashes From The Ntds.dit File](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/)
@@ -201,11 +202,14 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ### DCSync
 * [Mimikatz and DCSync and ExtraSids, Oh My](https://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/)
 * [Mimikatz DCSync Usage, Exploitation, and Detection](https://adsecurity.org/?p=1729)
+* [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
 
 ### LLMNR/NBT-NS Poisoning
 * [Pwning with Responder – A Pentester’s Guide](https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/)
 * [LLMNR/NBT-NS Poisoning Using Responder](https://www.4armed.com/blog/llmnr-nbtns-poisoning-using-responder/)
 
+### Other
+* [Compromising Plain Text Passwords In Active Directory](https://blog.stealthbits.com/compromising-plain-text-passwords-in-active-directory)
 ------
 
 ## Persistence
@@ -318,6 +322,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Kerberos Golden Ticket Protection Mitigating Pass-the-Ticket on Active Directory](https://cert.europa.eu/static/WhitePapers/UPDATED%20-%20CERT-EU_Security_Whitepaper_2014-007_Kerberos_Golden_Ticket_Protection_v1_4.pdf)
 * [Overview of Microsoft's "Best Practices for Securing Active Directory"](https://digital-forensics.sans.org/blog/2013/06/20/overview-of-microsofts-best-practices-for-securing-active-directory)
 * [The Keys to the Kingdom: Limiting Active Directory Administrators](https://dsimg.ubm-us.net/envelope/155422/314202/1330537912_Keys_to_the_Kingdom_Limiting_AD_Admins.pdf)
+* [Protect Privileged AD Accounts With Five Free Controls](https://blogs.sans.org/cyber-defense/2018/09/10/protect-privileged-ad-accounts-with-five-free-controls/)
 * [The Most Common Active Directory Security Issues and What You Can Do to Fix Them](https://adsecurity.org/?p=1684)
 * [Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance)
 * [Planting the Red Forest: Improving AD on the Road to ESAE](https://www.mwrinfosecurity.com/our-thinking/planting-the-red-forest-improving-ad-on-the-road-to-esae/)
