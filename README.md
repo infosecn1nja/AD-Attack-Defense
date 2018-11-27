@@ -416,6 +416,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Trimarc Research: Detecting Password Spraying with Security Event Auditing](https://www.trimarcsecurity.com/single-post/2018/05/06/Trimarc-Research-Detecting-Password-Spraying-with-Security-Event-Auditing)
 * [Hunting for Gargoyle Memory Scanning Evasion](https://www.countercept.com/blog/hunting-for-gargoyle/)
 * [Planning and getting started on the Windows Defender Application Control deployment process](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control-deployment-guide)
+* [Preventing Lateral Movement Using Network Access Groups](https://medium.com/think-stack/preventing-lateral-movement-using-network-access-groups-7e8d539a9029)
 * [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
 * [Windows Event Forwarding Guidance](https://github.com/palantir/windows-event-forwarding)
 
