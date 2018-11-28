@@ -91,7 +91,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Privilege Escalation With DCShadow](https://blog.stealthbits.com/privilege-escalation-with-dcshadow/)
 * [DCShadow](https://pentestlab.blog/2018/04/16/dcshadow/)
 * [DCShadow explained: A technical deep dive into the latest AD attack technique](https://blog.alsid.eu/dcshadow-explained-4510f52fc19d)
-* [DCShadow - Silently turn off Active Directory Auditing] (http://www.labofapenetrationtester.com/2018/05/dcshadow-sacl.html)
+* [DCShadow - Silently turn off Active Directory Auditing](http://www.labofapenetrationtester.com/2018/05/dcshadow-sacl.html)
 * [DCShadow - Minimal permissions, Active Directory Deception, Shadowception and more](http://www.labofapenetrationtester.com/2018/04/dcshadow.html)
 
 ### RID
