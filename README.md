@@ -35,6 +35,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Local Group Enumeration](https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
 * [Attack Mapping With Bloodhound](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
 * [Situational Awareness](https://pentestlab.blog/2018/05/28/situational-awareness/)
+* [Commands for Domain Network Compromise](https://www.javelin-networks.com/static/5fcc6e84.pdf)
 
 ### LAPS
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
