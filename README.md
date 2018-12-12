@@ -171,6 +171,10 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [How to bypass AMSI and execute ANY malicious Powershell code](https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html)
 * [AMSI: How Windows 10 Plans to Stop Script-Based Attacks](https://www.blackhat.com/docs/us-16/materials/us-16-Mittal-AMSI-How-Windows-10-Plans-To-Stop-Script-Based-Attacks-And-How-Well-It-Does-It.pdf)
 * [AMSI Bypass: Patching Technique](https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/)
+* [Invisi-Shell - Hide your Powershell script in plain sight. Bypass all Powershell security features](https://github.com/OmerYa/Invisi-Shell)
+
+### Loading .NET Assemblies Anti-Malware Scan Interface (AMSI) Bypass
+* [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
 
 ### AppLocker & Device Guard Bypass
 * [Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)](https://github.com/LOLBAS-Project/LOLBAS)
