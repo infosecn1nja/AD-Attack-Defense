@@ -187,6 +187,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Forging Trusts for Deception in Active Directory](http://www.labofapenetrationtester.com/2018/10/deploy-deception.html)
 * [Honeypot Buster: A Unique Red-Team Tool](https://jblog.javelin-networks.com/blog/the-honeypot-buster/)
 
+### Disabling Security Tools
+[Invoke-Phant0m - Windows Event Log Killer](https://github.com/hlldz/Invoke-Phant0m)
+
 ------
 
 ## Credential Dumping
