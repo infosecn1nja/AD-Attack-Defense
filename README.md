@@ -36,6 +36,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Attack Mapping With Bloodhound](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
 * [Situational Awareness](https://pentestlab.blog/2018/05/28/situational-awareness/)
 * [Commands for Domain Network Compromise](https://www.javelin-networks.com/static/5fcc6e84.pdf)
+* [A Pentester’s Guide to Group Scoping](https://www.harmj0y.net/blog/activedirectory/a-pentesters-guide-to-group-scoping/)
 
 ### LAPS
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
@@ -93,6 +94,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Active Directory forest trusts part 1 - How does SID filtering work?](https://dirkjanm.io/active-directory-forest-trusts-part-one-how-does-sid-filtering-work)
 * [The Forest Is Under Control. Taking over the entire Active Directory forest](https://hackmag.com/security/ad-forest/)
 * [Not A Security Boundary: Breaking Forest Trusts](https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d)
+* [The Trustpocalypse](http://www.harmj0y.net/blog/redteaming/the-trustpocalypse/)
 
 ### DCShadow
 * [Privilege Escalation With DCShadow](https://blog.stealthbits.com/privilege-escalation-with-dcshadow/)
