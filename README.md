@@ -184,6 +184,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Sysmon Evasion
 * [Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology](https://github.com/mattifestation/BHUSA2018_Sysmon)
+* [sysmon-config-bypass-finder](https://github.com/mkorman90/sysmon-config-bypass-finder)
 
 ### HoneyTokens Evasion
 * [Forging Trusts for Deception in Active Directory](http://www.labofapenetrationtester.com/2018/10/deploy-deception.html)
