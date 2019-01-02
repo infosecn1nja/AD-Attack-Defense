@@ -418,6 +418,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Detecting Kerberoasting Activity](https://adsecurity.org/?p=3458)
 * [Security Considerations for Trusts](https://docs.microsoft.com/pt-pt/previous-versions/windows/server/cc755321(v=ws.10))
 * [Advanced Threat Analytics suspicious activity guide](https://docs.microsoft.com/en-us/advanced-threat-analytics/suspicious-activity-guide)
+* [Protection from Kerberos Golden Ticket](https://cert.europa.eu/static/WhitePapers/CERT-EU-SWP_14_07_PassTheGolden_Ticket_v1_1.pdf)
 * [Windows 10 Credential Theft Mitigation Guide](https://download.microsoft.com/download/C/1/4/C14579CA-E564-4743-8B51-61C0882662AC/Windows%2010%20credential%20theft%20mitigation%20guide.docx)
 * [Detecting Pass-The- Ticket and Pass-The- Hash Attack Using Simple WMI Commands](https://blog.javelin-networks.com/detecting-pass-the-ticket-and-pass-the-hash-attack-using-simple-wmi-commands-2c46102b76bc)
 * [Step by Step Deploy Microsoft Local Administrator Password Solution](https://gallery.technet.microsoft.com/Step-by-Step-Deploy-Local-7c9ef772)
@@ -437,6 +438,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Preventing Lateral Movement Using Network Access Groups](https://medium.com/think-stack/preventing-lateral-movement-using-network-access-groups-7e8d539a9029)
 * [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
 * [Windows Event Forwarding Guidance](https://github.com/palantir/windows-event-forwarding)
+* [Threat Mitigation Strategies: Part 2 – Technical Recommendations and Information](http://threatexpress.com/2018/05/threat-mitigation-strategies-technical-recommendations-and-info-part-2/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
