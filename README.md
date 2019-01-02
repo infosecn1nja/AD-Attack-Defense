@@ -154,6 +154,7 @@ This document was designed to be a useful, informational asset for those looking
 
 ### Endpoint Detection and Response (EDR) Evasion
 * [Red Teaming in the EDR age](https://youtu.be/l8nkXCOYQC4)
+* [Sharp-Suite - Process Argument Spoofing](https://github.com/FuzzySecurity/Sharp-Suite)
 
 ### OPSEC
 * [Modern Defenses and YOU!](https://blog.cobaltstrike.com/2017/10/25/modern-defenses-and-you/)
