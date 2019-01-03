@@ -43,6 +43,9 @@ This document was designed to be a useful, informational asset for those looking
 * [Running LAPS with PowerView](https://www.harmj0y.net/blog/powershell/running-laps-with-powerview/)
 * [RastaMouse LAPS Part 1 & 2](https://rastamouse.me/tags/laps/)
 
+### AppLocker
+* [Enumerating AppLocker Config](https://rastamouse.me/2018/09/enumerating-applocker-config/)
+
 ------
 
 ## Privilege Escalation
@@ -217,6 +220,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Windows Credential Manager/Vault
 * [Operational Guidance for Offensive User DPAPI Abuse](https://www.harmj0y.net/blog/redteaming/operational-guidance-for-offensive-user-dpapi-abuse/)
+* [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
 
 ### DCSync
 * [Mimikatz and DCSync and ExtraSids, Oh My](https://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/)
