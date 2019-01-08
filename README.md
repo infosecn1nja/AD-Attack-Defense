@@ -79,6 +79,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Abusing GPO Permissions](https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
 * [A Red Teamer’s Guide to GPOs and OUs](https://wald0.com/?p=179)
 * [File templates for GPO Abuse](https://github.com/rasta-mouse/GPO-Abuse)
+* [GPO Abuse - Part 1](https://rastamouse.me/2019/01/gpo-abuse-part-1/)
 
 ### Insecure ACLs Permission Rights
 * [Exploiting Weak Active Directory Permissions With Powersploit](https://blog.stealthbits.com/exploiting-weak-active-directory-permissions-with-powersploit/)
