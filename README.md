@@ -23,6 +23,8 @@ This document was designed to be a useful, informational asset for those looking
 ### Data Mining
 * [A Data Hunting Overview](https://thevivi.net/2018/05/23/a-data-hunting-overview/)
 * [Push it, Push it Real Good](https://www.harmj0y.net/blog/redteaming/push-it-push-it-real-good/)
+* [Finding Sensitive Data on Domain SQL Servers using PowerUpSQL](https://blog.netspi.com/finding-sensitive-data-domain-sql-servers-using-powerupsql/)
+* [Sensitive Data Discovery in Email with MailSniper](https://www.youtube.com/watch?v=ZIOw_xfqkKM)
 
 ### User Hunting
 * [Hidden Administrative Accounts: BloodHound to the Rescue](https://www.crowdstrike.com/blog/hidden-administrative-accounts-bloodhound-to-the-rescue/)
