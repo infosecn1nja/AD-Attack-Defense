@@ -316,6 +316,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [PingCastle](https://www.pingcastle.com/) - A tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework
 * [Aorato Skeleton Key Malware Remote DC Scanner](https://gallery.technet.microsoft.com/Aorato-Skeleton-Key-24e46b73) - Remotely scans for the existence of the Skeleton Key Malware
 * [Reset the krbtgt account password/keys](https://gallery.technet.microsoft.com/Reset-the-krbtgt-account-581a9e51) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation
+* [Reset The KrbTgt Account Password/Keys For RWDCs/RODCs](https://gallery.technet.microsoft.com/Reset-The-KrbTgt-Account-5f45a414)
 * [Deploy-Deception](https://github.com/samratashok/Deploy-Deception) -  A PowerShell module to deploy active directory decoy objects
 * [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
