@@ -122,6 +122,15 @@ This document was designed to be a useful, informational asset for those looking
 ### Red Forest
 * [Attack and defend Microsoft Enhanced Security Administrative](https://download.ernw-insight.de/troopers/tr18/slides/TR18_AD_Attack-and-Defend-Microsoft-Enhanced-Security.pdf)
 
+### Exchange
+* [Exchange-AD-Privesc](https://github.com/gdedrouas/Exchange-AD-Privesc)
+* [Abusing Exchange: One API call away from Domain Admin](https://dirkjanm.io/abusing-exchange-one-api-call-away-from-domain-admin/)
+* [NtlmRelayToEWS](https://github.com/Arno0x/NtlmRelayToEWS)
+
+### NTML Relay
+* [Pwning with Responder – A Pentester’s Guide](https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/)
+* [Practical guide to NTLM Relaying in 2017 (A.K.A getting a foothold in under 5 minutes)](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
+* [Relaying credentials everywhere with ntlmrelayx](https://www.fox-it.com/en/insights/blogs/blog/inside-windows-network/)
 ------
 
 ## Lateral Movement
@@ -234,7 +243,6 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
 
 ### LLMNR/NBT-NS Poisoning
-* [Pwning with Responder – A Pentester’s Guide](https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/)
 * [LLMNR/NBT-NS Poisoning Using Responder](https://www.4armed.com/blog/llmnr-nbtns-poisoning-using-responder/)
 
 ### Other
