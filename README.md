@@ -79,6 +79,7 @@ This document was designed to be a useful, informational asset for those looking
 * [From Kekeo to Rubeus](https://www.harmj0y.net/blog/redteaming/from-kekeo-to-rubeus/)
 * [S4U2Pwnage](http://www.harmj0y.net/blog/activedirectory/s4u2pwnage/)
 * [Kerberos Delegation, Spns And More...](https://www.secureauth.com/blog/kerberos-delegation-spns-and-more)
+* [Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html)
 
 ### Insecure Group Policy Object Permission Rights
 * [Abusing GPO Permissions](https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
@@ -409,6 +410,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 |Skeleton Keys|4673: A privileged service was called<br>4611: A trusted logon process has been registered with the Local Security Authority<br>4688: A new process has been created<br>4689: A new process has exited|
 |PYKEK MS14-068|4672: Admin Logon<br>4624: Account Logon<br>4768: Kerberos TGS Request|
 |Kerberoasting|4769: A Kerberos ticket was requested|
+|S4U2Proxy|4769: A Kerberos ticket was requested|
 |Lateral Movement|4688: A new process has been created<br>4689: A process has exited<br>4624: An account was successfully logged on<br>4625: An account failed to log on|
 |DNSAdmin|770: DNS Server plugin DLL has been loaded<br>541: The setting serverlevelplugindll on scope . has been set to `<dll path>`<br>150: DNS Server could not load or initialize the plug-in DLL|
 |DCSync|4662: An operation was performed on an object|
