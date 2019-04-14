@@ -296,7 +296,6 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ## Tools & Scripts
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1) - Situational Awareness PowerShell framework
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) - an open-source utility that enables the viewing of credential information from the Windows lsass (Local Security Authority Subsystem Service) through its sekurlsa module which includes plaintext passwords and Kerberos tickets which could then be used for attacks such as pass-the-hash and pass-the-ticket.
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 * [Impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols
 * [aclpwn.py](https://github.com/fox-it/aclpwn.py) - Active Directory ACL exploitation with BloodHound
