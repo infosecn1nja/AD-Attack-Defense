@@ -335,6 +335,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 * [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor) - Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events
+* [Sigma](https://github.com/Neo23x0/sigma/) - Generic Signature Format for SIEM Systems
 
 ### Active Directory Security Checks (by Sean Metcalf - @Pyrotek3)
 
