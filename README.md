@@ -324,6 +324,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ## Defense & Detection
 ### Tools & Scripts
+* [Create-Tiers in AD](https://github.com/davidprowe/AD_Sec_Tools) - Project Title Active Directory Auto Deployment of Tiers in any environment
 * [SAMRi10](https://gallery.technet.microsoft.com/SAMRi10-Hardening-Remote-48d94b5b)  - Hardening SAM Remote Access in Windows 10/Server 2016
 * [Net Cease](https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b)  - Hardening Net Session Enumeration
 * [PingCastle](https://www.pingcastle.com/) - A tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework
@@ -425,6 +426,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ASD Strategies to Mitigate Cyber Security Incidents](https://acsc.gov.au/publications/Mitigation_Strategies_2017.pdf)
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
 * [Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (AskPFEPlat edition)](https://blogs.technet.microsoft.com/askpfeplat/2019/04/11/changes-to-ticket-granting-ticket-tgt-delegation-across-trusts-in-windows-server-askpfeplat-edition/)
+* [Active Directory: Ultimate Reading Collection](https://social.technet.microsoft.com/wiki/contents/articles/20964.active-directory-ultimate-reading-collection.aspx)
 * [Securing Domain Controllers to Improve Active Directory Security](https://adsecurity.org/?p=3377)
 * [Securing Windows Workstations: Developing a Secure Baseline](https://adsecurity.org/?p=3299)
 * [Implementing Secure Administrative Hosts](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-secure-administrative-hosts)
