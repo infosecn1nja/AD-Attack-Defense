@@ -265,7 +265,6 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Others
 * [Compromising Plain Text Passwords In Active Directory](https://blog.stealthbits.com/compromising-plain-text-passwords-in-active-directory)
-* [Bloodhound walkthrough. A Tool for Many Tradecrafts](https://www.pentestpartners.com/security-blog/bloodhound-walkthrough-a-tool-for-many-tradecrafts/)
 ------
 
 ## Persistence
@@ -337,6 +336,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ## Other Resources
 * [Tactics, Techniques and Procedures for Attacking Active Directory BlackHat Asia 2019](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/)
+* [Bloodhound walkthrough. A Tool for Many Tradecrafts](https://www.pentestpartners.com/security-blog/bloodhound-walkthrough-a-tool-for-many-tradecrafts/)
 ------
 
 ## Defense & Detection
