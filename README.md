@@ -212,6 +212,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [AMSI: How Windows 10 Plans to Stop Script-Based Attacks](https://www.blackhat.com/docs/us-16/materials/us-16-Mittal-AMSI-How-Windows-10-Plans-To-Stop-Script-Based-Attacks-And-How-Well-It-Does-It.pdf)
 * [AMSI Bypass: Patching Technique](https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/)
 * [Invisi-Shell - Hide your Powershell script in plain sight. Bypass all Powershell security features](https://github.com/OmerYa/Invisi-Shell)
+* [Dynamic Microsoft Office 365 AMSI In Memory Bypass Using VBA](https://secureyourit.co.uk/wp/2019/05/10/dynamic-microsoft-office-365-amsi-in-memory-bypass-using-vba/)
+* [AmsiScanBuffer Bypass - Part 1](https://rastamouse.me/2018/10/amsiscanbuffer-bypass---part-1/)
+* [AMSI Bypass](https://www.contextis.com/en/blog/amsi-bypass)
 
 ### Loading .NET Assemblies Anti-Malware Scan Interface (AMSI) Bypass
 * [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
