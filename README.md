@@ -436,7 +436,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Important Security Updates
 * [CVE-2019-1040 - Windows NTLM Tampering Vulnerability](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1040)
+* [CVE-2019-0708 - Remote Desktop Services Remote Code Execution Vulnerability](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
 * [CVE-2018-8581 - Microsoft Exchange Server Elevation of Privilege Vulnerability](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8518)
+* [CVE-2017-0143 - Windows SMB Remote Code Execution Vulnerability](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-0143)
 * [CVE-2016-0128 - Windows SAM and LSAD Downgrade Vulnerability](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2016-0128)
 * [CVE-2014-6324 - Vulnerability in Kerberos Could Allow Elevation of Privilege (3011780)](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-068)
 * [CVE-2014-1812 - Vulnerability in Group Policy Preferences could allow elevation of privilege](https://support.microsoft.com/en-us/help/2962486/ms14-025-vulnerability-in-group-policy-preferences-could-allow-elevati)
