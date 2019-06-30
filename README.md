@@ -362,6 +362,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Sigma](https://github.com/Neo23x0/sigma/) - Generic Signature Format for SIEM Systems
 * [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - System Monitor (Sysmon) is a Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log
+* [ClrGuard](https://github.com/endgameinc/ClrGuard) - ClrGuard is a proof of concept project to explore instrumenting the Common Language Runtime (CLR) for security purposes.
+* [Get-ClrReflection](https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58) - Detects memory-only CLR (.NET) modules.
+* [Get-InjectedThread](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2) - Get-InjectedThread looks at each running thread to determine if it is the result of memory injection.
 
 ### Sysmon Configuration
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A Sysmon configuration repository for everybody to customise
