@@ -222,7 +222,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
 
 ### AppLocker & Device Guard Bypass
-* [Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)](https://github.com/LOLBAS-Project/LOLBAS)
+* [Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)](https://lolbas-project.github.io/)
 
 ### Sysmon Evasion
 * [Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology](https://github.com/mattifestation/BHUSA2018_Sysmon)
