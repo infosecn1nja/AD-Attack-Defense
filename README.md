@@ -470,6 +470,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
 * [Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (AskPFEPlat edition)](https://blogs.technet.microsoft.com/askpfeplat/2019/04/11/changes-to-ticket-granting-ticket-tgt-delegation-across-trusts-in-windows-server-askpfeplat-edition/)
 * [Active Directory: Ultimate Reading Collection](https://social.technet.microsoft.com/wiki/contents/articles/20964.active-directory-ultimate-reading-collection.aspx)
+* [Security Hardening Tips and Recommendations](https://social.technet.microsoft.com/wiki/contents/articles/18931.security-hardening-tips-and-recommendations.aspx)
 * [Securing Domain Controllers to Improve Active Directory Security](https://adsecurity.org/?p=3377)
 * [Securing Windows Workstations: Developing a Secure Baseline](https://adsecurity.org/?p=3299)
 * [Implementing Secure Administrative Hosts](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-secure-administrative-hosts)
@@ -515,6 +516,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [How to Go from Responding to Hunting with Sysinternals Sysmon](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow)
 * [Windows Event Forwarding Guidance](https://github.com/palantir/windows-event-forwarding)
 * [Threat Mitigation Strategies: Part 2 – Technical Recommendations and Information](http://threatexpress.com/2018/05/threat-mitigation-strategies-technical-recommendations-and-info-part-2/)
+* [Modern Hardening: Lessons Learned on Hardening Applications and Services](https://channel9.msdn.com/Events/Ignite/2015/BRK3486)
+* [ITSP.70.012 Guidance for Hardening Microsoft Windows 10 Enterprise](http://publications.gc.ca/collections/collection_2019/cstc-csec/D97-3-70-12-2019-eng.pdf)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
