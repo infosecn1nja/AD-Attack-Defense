@@ -519,6 +519,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Modern Hardening: Lessons Learned on Hardening Applications and Services](https://channel9.msdn.com/Events/Ignite/2015/BRK3486)
 * [ITSP.70.012 Guidance for Hardening Microsoft Windows 10 Enterprise](http://publications.gc.ca/collections/collection_2019/cstc-csec/D97-3-70-12-2019-eng.pdf)
 * [Blue Team Tips](https://www.sneakymonkey.net/2018/06/25/blue-team-tips/)
+* [Active Directory Domain Security Technical Implementation Guide (STIG)](https://www.stigviewer.com/stig/active_directory_domain/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
