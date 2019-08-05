@@ -28,6 +28,7 @@ This document was designed to be a useful, informational asset for those looking
 * [Finding Sensitive Data on Domain SQL Servers using PowerUpSQL](https://blog.netspi.com/finding-sensitive-data-domain-sql-servers-using-powerupsql/)
 * [Sensitive Data Discovery in Email with MailSniper](https://www.youtube.com/watch?v=ZIOw_xfqkKM)
 * [Remotely Searching for Sensitive Files](https://www.fortynorthsecurity.com/remotely-search/)
+* [I Hunt Sysadmins - harmj0y](http://www.harmj0y.net/blog/penetesting/i-hunt-sysadmins/)
 
 ### User Hunting
 * [Hidden Administrative Accounts: BloodHound to the Rescue](https://www.crowdstrike.com/blog/hidden-administrative-accounts-bloodhound-to-the-rescue/)
