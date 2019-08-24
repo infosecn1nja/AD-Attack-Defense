@@ -337,6 +337,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Mimikatz](https://github.com/gentilkiwi/mimikatz) - Utility to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory but also perform pass-the-hash, pass-the-ticket or build Golden tickets
 * [Grouper](https://github.com/l0ss/Grouper) - A PowerShell script for helping to find vulnerable settings in AD Group Policy.
 * [Powermad](https://github.com/Kevin-Robertson/Powermad) - PowerShell MachineAccountQuota and DNS exploit tools
+* [RACE](https://github.com/samratashok/RACE) - RACE is a PowerShell module for executing ACL attacks against Windows targets.
 
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
@@ -531,6 +532,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ITSP.70.012 Guidance for Hardening Microsoft Windows 10 Enterprise](http://publications.gc.ca/collections/collection_2019/cstc-csec/D97-3-70-12-2019-eng.pdf)
 * [Blue Team Tips](https://www.sneakymonkey.net/2018/06/25/blue-team-tips/)
 * [Active Directory Domain Security Technical Implementation Guide (STIG)](https://www.stigviewer.com/stig/active_directory_domain/)
+* [Active Directory Security Testing Guide - v2.0](https://www.slideshare.net/HuyKha2/adstg-v20-guidance)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
