@@ -349,6 +349,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [PowerView-3.0 tips and tricks](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
 * [PowerView-2.0 tips and tricks](https://gist.github.com/HarmJ0y/3328d954607d71362e3c)
 * [BloodhoundAD-Queries](https://github.com/Scoubi/BloodhoundAD-Queries)
+* [Kerberos_Attacks_Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
 
 ## Other Resources
 * [Tactics, Techniques and Procedures for Attacking Active Directory BlackHat Asia 2019](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/)
@@ -356,6 +357,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Attack Methods for Gaining Domain Admin Rights in Active Directory](https://adsecurity.org/?p=2362)
 * [PowerShell Is Dead Epic Learnings](https://www.slideshare.net/nettitude_labs/powershellisdeadepiclearningslondon)
 * [Finding Our Path: How We’re Trying to Improve Active Directory Security](https://docs.google.com/presentation/d/1lQHTqXZIDxwaIUnXdO-EdvGp79RzH1rbM4zE45Kki2I/edit#slide=id.g35f391192_00)
+* [SteelCon 2019: Getting Splunky With Kerberos - Ross Bingham and Tom MacDonald](https://www.youtube.com/watch?v=JcFdNAleIk4&feature=youtu.be)
+
 ------
 
 ## Defense & Detection
