@@ -91,12 +91,15 @@ This document was designed to be a useful, informational asset for those looking
 * [Unconstrained Delegation Permissions](https://blog.stealthbits.com/unconstrained-delegation-permissions/)
 * [Trust? Years to earn, seconds to break](https://labs.mwrinfosecurity.com/blog/trust-years-to-earn-seconds-to-break/)
 * [Hunting in Active Directory: Unconstrained Delegation & Forests Trusts](https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1)
+* [Exploiting Unconstrained Delegation](https://www.riccardoancarani.it/exploiting-unconstrained-delegation/)
 
 #### Constrained Delegation
 * [Another Word on Delegation](https://www.harmj0y.net/blog/redteaming/another-word-on-delegation/)
 * [From Kekeo to Rubeus](https://www.harmj0y.net/blog/redteaming/from-kekeo-to-rubeus/)
 * [S4U2Pwnage](http://www.harmj0y.net/blog/activedirectory/s4u2pwnage/)
 * [Kerberos Delegation, Spns And More...](https://www.secureauth.com/blog/kerberos-delegation-spns-and-more)
+
+#### Resource-Based Constrained Delegation
 * [Wagging the Dog: Abusing Resource-Based Constrained Delegation to Attack Active Directory](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html)
 
 ### Insecure Group Policy Object Permission Rights
@@ -260,6 +263,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Extracting Service Account Passwords With Kerberoasting](https://blog.stealthbits.com/extracting-service-account-passwords-with-kerberoasting/)
 * [Cracking Service Account Passwords with Kerberoasting](https://www.cyberark.com/blog/cracking-service-account-passwords-kerberoasting/)
 * [Kerberoast PW list for cracking passwords with complexity requirements](https://gist.github.com/edermi/f8b143b11dc020b854178d3809cf91b5)
+* [DerbyCon 2019 - Kerberoasting Revisited](https://www.slideshare.net/harmj0y/derbycon-2019-kerberoasting-revisited)
 
 ### Kerberos AP-REP Roasting
 * [Roasting AS-REPs](http://www.harmj0y.net/blog/activedirectory/roasting-as-reps/) 
