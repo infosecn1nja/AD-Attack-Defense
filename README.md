@@ -365,6 +365,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [PowerView-2.0 tips and tricks](https://gist.github.com/HarmJ0y/3328d954607d71362e3c)
 * [BloodhoundAD-Queries](https://github.com/Scoubi/BloodhoundAD-Queries)
 * [Kerberos Attacks Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
+* [Bloodhound Cypher Cheatsheet](https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/)
 
 ## Other Resources
 * [Tactics, Techniques and Procedures for Attacking Active Directory BlackHat Asia 2019](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/)
