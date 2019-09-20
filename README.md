@@ -242,6 +242,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ### Sysmon Evasion
 * [Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology](https://github.com/mattifestation/BHUSA2018_Sysmon)
 * [sysmon-config-bypass-finder](https://github.com/mkorman90/sysmon-config-bypass-finder)
+* [Shhmon — Silencing Sysmon via Driver Unload](https://posts.specterops.io/shhmon-silencing-sysmon-via-driver-unload-682b5be57650)
 
 ### HoneyTokens Evasion
 * [Forging Trusts for Deception in Active Directory](http://www.labofapenetrationtester.com/2018/10/deploy-deception.html)
@@ -395,6 +396,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ClrGuard](https://github.com/endgameinc/ClrGuard) - ClrGuard is a proof of concept project to explore instrumenting the Common Language Runtime (CLR) for security purposes.
 * [Get-ClrReflection](https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58) - Detects memory-only CLR (.NET) modules.
 * [Get-InjectedThread](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2) - Get-InjectedThread looks at each running thread to determine if it is the result of memory injection.
+* [SilkETW](https://github.com/fireeye/SilkETW) - SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection. 
 
 ### Sysmon Configuration
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A Sysmon configuration repository for everybody to customise
