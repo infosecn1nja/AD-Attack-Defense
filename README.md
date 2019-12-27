@@ -83,6 +83,7 @@ This document was designed to be a useful, informational asset for those looking
 
 ### Kerberos Delegation
 * [Constructing Kerberos Attacks with Delegation Primitives](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
+* [No Shells Required - a Walkthrough on Using Impacket and Kerberos to Delegate Your Way to DA](http://blog.redxorblue.com/2019/12/no-shells-required-using-impacket-to.html)
 
 #### Unconstrained Delegation
 * [Active Directory Security Risk #101: Kerberos Unconstrained Delegation (or How Compromise of a Single Server Can Compromise the Domain)](https://adsecurity.org/?p=1667)
@@ -506,6 +507,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ASD Strategies to Mitigate Cyber Security Incidents](https://acsc.gov.au/publications/Mitigation_Strategies_2017.pdf)
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
 * [Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (AskPFEPlat edition)](https://techcommunity.microsoft.com/t5/Premier-Field-Engineering/Changes-to-Ticket-Granting-Ticket-TGT-Delegation-Across-Trusts/ba-p/440283)
+* [ADV190006 | Guidance to mitigate unconstrained delegation vulnerabilities](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV190006)
 * [ADV190023 | Microsoft Guidance for Enabling LDAP Channel Binding and LDAP Signing](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV190023)
 * [Active Directory: Ultimate Reading Collection](https://social.technet.microsoft.com/wiki/contents/articles/20964.active-directory-ultimate-reading-collection.aspx)
 * [Security Hardening Tips and Recommendations](https://social.technet.microsoft.com/wiki/contents/articles/18931.security-hardening-tips-and-recommendations.aspx)
