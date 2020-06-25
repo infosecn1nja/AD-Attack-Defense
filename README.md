@@ -382,6 +382,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ## Defense & Detection
 ### Tools & Scripts
+* [Invoke-TrimarcADChecks](https://download-files.wix.com/_api/download/file?downloadToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOmU2NjYzMGU3MTRmMDQ5MGFhZWExZjE0OWIzYjY5ZTMyIiwic3ViIjoidXJuOmFwcDplNjY2MzBlNzE0ZjA0OTBhYWVhMWYxNDliM2I2OWUzMiIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTU5MzA2NzAwMCwiZXhwIjoxNTkzMTAzMDEwLCJqdGkiOiJiMzExZjAxOGM0NWYiLCJwYXlsb2FkIjp7InBhdGgiOiIvdWdkL2JmOWQwM19lYTcyZGIyYzgyZTQ0ZTI5ODYzYzM2ODM1YWZlYWE5Ny50eHQiLCJhdHRhY2htZW50Ijp7ImZpbGVuYW1lIjoiSW52b2tlLVRyaW1hcmNBRENoZWNrcy50eHQifX19.7Knwrb-lyKxLnnmLzRdy2eqFiASpwGR5ikQHGepHJKg) - The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest to performed Active Directory Security Assessment (ADSA).
 * [Create-Tiers in AD](https://github.com/davidprowe/AD_Sec_Tools) - Project Title Active Directory Auto Deployment of Tiers in any environment
 * [SAMRi10](https://gallery.technet.microsoft.com/SAMRi10-Hardening-Remote-48d94b5b)  - Hardening SAM Remote Access in Windows 10/Server 2016
 * [Net Cease](https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b)  - Hardening Net Session Enumeration
@@ -506,6 +507,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 |Password Spraying|4625: An account failed to log on<br>4771: Kerberos pre-authentication failed<br>4648: A logon was attempted using explicit credentials|
 
 ### Resources
+* [Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
 * [ACTIVE DIRECTORY SECURITY ASSESSMENT CHECKLIST](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html)
 * [ASD Strategies to Mitigate Cyber Security Incidents](https://acsc.gov.au/publications/Mitigation_Strategies_2017.pdf)
 * [Reducing the Active Directory Attack Surface](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
