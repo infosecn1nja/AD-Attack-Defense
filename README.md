@@ -369,6 +369,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Kerberos Attacks Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
 * [Bloodhound Cypher Cheatsheet](https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/)
 * [Kerberos cheatsheet](https://gist.github.com/knethteo/2fc8af6ea28199fd63a529a73a4176c7)
+* [Active Directory Exploitation Cheat Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
 
 ## Other Resources
 * [Tactics, Techniques and Procedures for Attacking Active Directory BlackHat Asia 2019](https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/)
@@ -382,7 +383,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ## Defense & Detection
 ### Tools & Scripts
-* [Invoke-TrimarcADChecks](https://download-files.wix.com/_api/download/file?downloadToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ1cm46YXBwOmU2NjYzMGU3MTRmMDQ5MGFhZWExZjE0OWIzYjY5ZTMyIiwic3ViIjoidXJuOmFwcDplNjY2MzBlNzE0ZjA0OTBhYWVhMWYxNDliM2I2OWUzMiIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sImlhdCI6MTU5MzA2NzAwMCwiZXhwIjoxNTkzMTAzMDEwLCJqdGkiOiJiMzExZjAxOGM0NWYiLCJwYXlsb2FkIjp7InBhdGgiOiIvdWdkL2JmOWQwM19lYTcyZGIyYzgyZTQ0ZTI5ODYzYzM2ODM1YWZlYWE5Ny50eHQiLCJhdHRhY2htZW50Ijp7ImZpbGVuYW1lIjoiSW52b2tlLVRyaW1hcmNBRENoZWNrcy50eHQifX19.7Knwrb-lyKxLnnmLzRdy2eqFiASpwGR5ikQHGepHJKg) - The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest to performed Active Directory Security Assessment (ADSA).
+* [Invoke-TrimarcADChecks](https://gofile.io/d/IAKDLn) - The Invoke-TrimarcADChecks.ps1 PowerShell script is designed to gather data from a single domain AD forest to performed Active Directory Security Assessment (ADSA).
 * [Create-Tiers in AD](https://github.com/davidprowe/AD_Sec_Tools) - Project Title Active Directory Auto Deployment of Tiers in any environment
 * [SAMRi10](https://gallery.technet.microsoft.com/SAMRi10-Hardening-Remote-48d94b5b)  - Hardening SAM Remote Access in Windows 10/Server 2016
 * [Net Cease](https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b)  - Hardening Net Session Enumeration
