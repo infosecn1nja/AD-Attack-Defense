@@ -355,6 +355,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [MailSniper](https://github.com/dafthack/MailSniper) - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.)
 * [LAPSToolkit](https://github.com/leoloobeek/LAPSToolkit) - Tool to audit and attack LAPS environments.
 * [CredDefense](https://github.com/CredDefense/CredDefense) - Credential and Red Teaming Defense for Windows Environments
+* [ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
+
 
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
@@ -404,6 +406,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Get-ClrReflection](https://gist.github.com/dezhub/2875fa6dc78083cedeab10abc551cb58) - Detects memory-only CLR (.NET) modules.
 * [Get-InjectedThread](https://gist.github.com/jaredcatkinson/23905d34537ce4b5b1818c3e6405c1d2) - Get-InjectedThread looks at each running thread to determine if it is the result of memory injection.
 * [SilkETW](https://github.com/fireeye/SilkETW) - SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection. 
+* [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System
 
 ### Sysmon Configuration
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A Sysmon configuration repository for everybody to customise
