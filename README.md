@@ -137,6 +137,8 @@ This document was designed to be a useful, informational asset for those looking
 * [Not A Security Boundary: Breaking Forest Trusts](https://posts.specterops.io/not-a-security-boundary-breaking-forest-trusts-cd125829518d)
 * [The Trustpocalypse](http://www.harmj0y.net/blog/redteaming/the-trustpocalypse/)
 * [Pentesting Active Directory Forests](https://www.dropbox.com/s/ilzjtlo0vbyu1u0/Carlos%20Garcia%20-%20Rooted2019%20-%20Pentesting%20Active%20Directory%20Forests%20public.pdf?dl=0)
+* [Security Considerations for Active Directory (AD) Trusts](https://adsecurity.org/?p=282)
+* [Kerberos Golden Tickets are Now More Golden](https://adsecurity.org/?p=1640)
 
 ### DCShadow
 * [Privilege Escalation With DCShadow](https://blog.stealthbits.com/privilege-escalation-with-dcshadow/)
@@ -360,7 +362,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [LAPSToolkit](https://github.com/leoloobeek/LAPSToolkit) - Tool to audit and attack LAPS environments.
 * [CredDefense](https://github.com/CredDefense/CredDefense) - Credential and Red Teaming Defense for Windows Environments
 * [ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump) - Active Directory information dumper via LDAP
-
+* [SpoolSample](https://github.com/leechristensen/SpoolSample/) - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface
 
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
