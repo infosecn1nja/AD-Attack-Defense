@@ -283,7 +283,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Windows Credential Manager/Vault
 * [Operational Guidance for Offensive User DPAPI Abuse](https://www.harmj0y.net/blog/redteaming/operational-guidance-for-offensive-user-dpapi-abuse/)
-* [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
+* [Jumping Network Segregation with RDP](https://rastamouse.me/blog/rdp-jump-boxes/)
 
 ### DCSync
 * [Mimikatz and DCSync and ExtraSids, Oh My](https://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/)
