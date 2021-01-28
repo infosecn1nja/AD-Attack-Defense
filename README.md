@@ -36,7 +36,8 @@ This document was designed to be a useful, informational asset for those looking
 * [Gathering AD Data with the Active Directory PowerShell Module](https://adsecurity.org/?p=3719)
 * [Using ActiveDirectory module for Domain Enumeration from PowerShell Constrained Language Mode](http://www.labofapenetrationtester.com/2018/10/domain-enumeration-from-PowerShell-CLM.html)
 * [PowerUpSQL Active Directory Recon Functions](https://github.com/NetSPI/PowerUpSQL/wiki/Active-Directory-Recon-Functions)
-* [Derivative Local Admin](https://www.sixdub.net/?p=591)
+* [Derivative Local Admin](https://medium.com/@sixdub/derivative-local-admin-cdd09445aac8)
+* [Automated Derivative Administrator Search](https://wald0.com/?p=14)
 * [Dumping Active Directory Domain Info – with PowerUpSQL!](https://blog.netspi.com/dumping-active-directory-domain-info-with-powerupsql/)
 * [Local Group Enumeration](https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
 * [Attack Mapping With Bloodhound](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
@@ -50,7 +51,7 @@ This document was designed to be a useful, informational asset for those looking
 * [RastaMouse LAPS Part 1 & 2](https://rastamouse.me/tags/laps/)
 
 ### AppLocker
-* [Enumerating AppLocker Config](https://rastamouse.me/2018/09/enumerating-applocker-config/)
+* [Enumerating AppLocker Config](https://rastamouse.me/blog/applocker/)
 
 ### Azure
 * [I'm in your cloud... reading everyone's email. Hacking Azure AD via Active Directory](https://www.slideshare.net/DirkjanMollema/im-in-your-cloud-reading-everyones-email-hacking-azure-ad-via-active-directory)
@@ -116,7 +117,8 @@ This document was designed to be a useful, informational asset for those looking
 * [Abusing GPO Permissions](https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
 * [A Red Teamer’s Guide to GPOs and OUs](https://wald0.com/?p=179)
 * [File templates for GPO Abuse](https://github.com/rasta-mouse/GPO-Abuse)
-* [GPO Abuse - Part 1](https://rastamouse.me/2019/01/gpo-abuse-part-1/)
+* [GPO Abuse - Part 1](https://rastamouse.me/blog/gpo-abuse-pt1/)
+* [GPO Abuse - Part 2](https://rastamouse.me/blog/gpo-abuse-pt2/)
 * [SharpGPOAbuse](https://github.com/mwrlabs/SharpGPOAbuse)
 
 ### Insecure ACLs Permission Rights
@@ -283,7 +285,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 
 ### Windows Credential Manager/Vault
 * [Operational Guidance for Offensive User DPAPI Abuse](https://www.harmj0y.net/blog/redteaming/operational-guidance-for-offensive-user-dpapi-abuse/)
-* [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
+* [Jumping Network Segregation with RDP](https://rastamouse.me/blog/rdp-jump-boxes/)
 
 ### DCSync
 * [Mimikatz and DCSync and ExtraSids, Oh My](https://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/)
