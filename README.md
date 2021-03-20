@@ -157,11 +157,14 @@ This document was designed to be a useful, informational asset for those looking
 * [Abusing Exchange: One API call away from Domain Admin](https://dirkjanm.io/abusing-exchange-one-api-call-away-from-domain-admin/)
 * [NtlmRelayToEWS](https://github.com/Arno0x/NtlmRelayToEWS)
 
-### LLMNR/NBNS
+### NTLM Relay & LLMNR/NBNS
 * [Pwning with Responder – A Pentester’s Guide](https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/)
 * [Practical guide to NTLM Relaying in 2017 (A.K.A getting a foothold in under 5 minutes)](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
 * [Relaying credentials everywhere with ntlmrelayx](https://www.fox-it.com/en/insights/blogs/blog/inside-windows-network/)
 * [Beyond LLMNR/NBNS Spoofing – Exploiting Active Directory-Integrated DNS](https://blog.netspi.com/exploiting-adidns/)
+* [Combining NTLM Relaying and Kerberos delegation](https://chryzsh.github.io/relaying-delegation/)
+* [mitm6 – compromising IPv4 networks via IPv6](https://www.fox-it.com/en/news/blog/mitm6-compromising-ipv4-networks-via-ipv6/)
+* [The worst of both worlds: Combining NTLM Relaying and Kerberos delegation](https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/)
 ------
 
 ## Lateral Movement
@@ -593,6 +596,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Active Directory Domain Security Technical Implementation Guide (STIG)](https://www.stigviewer.com/stig/active_directory_domain/)
 * [Active Directory Security Testing Guide - v2.0](https://www.slideshare.net/HuyKha2/adstg-v20-guidance)
 * [Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
+* [The most common on premises vulnerabilities & misconfigurations](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
