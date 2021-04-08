@@ -390,6 +390,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [PowerShell Is Dead Epic Learnings](https://www.slideshare.net/nettitude_labs/powershellisdeadepiclearningslondon)
 * [Finding Our Path: How We’re Trying to Improve Active Directory Security](https://docs.google.com/presentation/d/1lQHTqXZIDxwaIUnXdO-EdvGp79RzH1rbM4zE45Kki2I/edit#slide=id.g35f391192_00)
 * [SteelCon 2019: Getting Splunky With Kerberos - Ross Bingham and Tom MacDonald](https://www.youtube.com/watch?v=JcFdNAleIk4&feature=youtu.be)
+* [AD-security-workshop](https://github.com/wavestone-cdt/AD-security-workshop)
 
 ### Azure Active Directory
 * [AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)
@@ -433,7 +434,6 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [AzureADIncidentResponse](https://www.powershellgallery.com/packages/AzureADIncidentResponse/4.0) - Tooling to assist in Azure AD incident response
 * [ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - The ADTimeline script generates a timeline based on Active Directory replication metadata for objects considered of interest.
 
-* 
 ### Sysmon Configuration
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A Sysmon configuration repository for everybody to customise
 * [sysmon-dfir](https://github.com/MHaggis/sysmon-dfir) - Sources, configuration and how to detect evil things utilizing Microsoft Sysmon.
