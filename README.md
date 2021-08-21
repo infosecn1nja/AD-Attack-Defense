@@ -61,6 +61,14 @@ This document was designed to be a useful, informational asset for those looking
 ------
 
 ## Privilege Escalation
+
+### Abusing Active Directory Certificate Services
+* [Certified Pre-Owned](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
+
+### PetitPotam 
+* [PetitPotam](https://github.com/topotam/PetitPotam)
+* [From Stranger to DA // Using PetitPotam to NTLM relay to Domain Administrator](https://blog.truesec.com/2021/08/05/from-stranger-to-da-using-petitpotam-to-ntlm-relay-to-active-directory/)
+
 ### Zerologon
 * [Cobalt Strike ZeroLogon-BOF](https://github.com/rsmudge/ZeroLogon-BOF)
 * [CVE-2020-1472 POC](https://github.com/dirkjanm/CVE-2020-1472)
@@ -339,6 +347,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [The Unintended Risks of Trusting Active Directory](https://www.slideshare.net/harmj0y/the-unintended-risks-of-trusting-active-directory)
 
 ## Tools & Scripts
+* [Certify](https://github.com/GhostPack/Certify) - Certify is a C# tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
+* [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for auditing Active Directory Certificate Services (AD CS).
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1) - Situational Awareness PowerShell framework
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 * [Impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols
