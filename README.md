@@ -383,7 +383,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [MicroBurst: A PowerShell Toolkit for Attacking Azure](https://github.com/NetSPI/MicroBurst) - MicroBurst includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping. 
 * [sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 * [CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. Yet another low effort domain user to domain admin exploit.
-* 
+* [ADModule](https://github.com/samratashok/ADModule) - Microsoft signed ActiveDirectory PowerShell module
+
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
 * [Varonis eBook: Pen Testing Active Directory Environments](https://www.varonis.com/blog/varonis-ebook-pen-testing-active-directory-environments/)
