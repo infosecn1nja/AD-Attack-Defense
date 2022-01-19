@@ -384,6 +384,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [sam-the-admin](https://github.com/WazeHell/sam-the-admin) - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
 * [CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. Yet another low effort domain user to domain admin exploit.
 * [ADModule](https://github.com/samratashok/ADModule) - Microsoft signed ActiveDirectory PowerShell module
+* [ImproHound](https://github.com/improsec/ImproHound) - Identify the attack paths in BloodHound breaking your AD tiering
+* [ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py) - ADExplorerSnapshot.py is an AD Explorer snapshot ingestor for BloodHound.
 
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
