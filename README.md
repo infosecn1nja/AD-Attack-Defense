@@ -308,6 +308,9 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 ------
 
 ## Persistence
+### Diamond Ticket
+* [A Diamond (Ticket) in the Ruff](https://www.semperis.com/blog/a-diamond-ticket-in-the-ruff/)
+
 ### Golden Ticket
 * [Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)
 * [Kerberos Golden Tickets are Now More Golden](https://adsecurity.org/?p=1640)
