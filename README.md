@@ -390,6 +390,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ImproHound](https://github.com/improsec/ImproHound) - Identify the attack paths in BloodHound breaking your AD tiering
 * [ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py) - ADExplorerSnapshot.py is an AD Explorer snapshot ingestor for BloodHound.
 * [orpheus](https://github.com/trustedsec/orpheus) - Bypassing Kerberoast Detections with Modified KDC Options and Encryption Types
+* [BackupOperatorToolkit](https://github.com/improsec/BackupOperatorToolkit)
 
 ## Ebooks
 * [The Dog Whisperer’s Handbook – A Hacker’s Guide to the BloodHound Galaxy](https://www.ernw.de/download/BloodHoundWorkshop/ERNW_DogWhispererHandbook.pdf)
@@ -427,6 +428,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [How to create a backdoor to Azure AD](https://o365blog.com/post/aadbackdoor/)
 * [Azurehound Cypher Cheatsheet](https://hausec.com/2020/11/23/azurehound-cypher-cheatsheet/)
 * [Keys of the kingdom: Playing God as Global Admin](https://o365blog.com/post/admin/)
+* [AZURE AD KERBEROS TICKETS: PIVOTING TO THE CLOUD](https://www.trustedsec.com/blog/azure-ad-kerberos-tickets-pivoting-to-the-cloud/)
 ------
 
 ## Defense & Detection
