@@ -462,6 +462,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - The ADTimeline script generates a timeline based on Active Directory replication metadata for objects considered of interest.
 * [Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 * [FalconHound](https://github.com/FalconForceTeam/FalconHound) - FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
+* [PlumHound](https://github.com/PlumHound/PlumHound) - Bloodhound for Blue and Purple Teams.
 
 ### Sysmon Configuration
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A Sysmon configuration repository for everybody to customise
@@ -630,7 +631,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [Active Directory Security Testing Guide - v2.0](https://www.slideshare.net/HuyKha2/adstg-v20-guidance)
 * [Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
 * [The most common on premises vulnerabilities & misconfigurations](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
-
+* [Active Directory Certificate Services: Modern Attack Paths, Mitigations, and Hardening](https://mandiant.widen.net/s/ld7gszw89z/active-directory-certificate-services-hardening-mandiant)
+ 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
