@@ -1,6 +1,6 @@
 # Active Directory Kill Chain Attack & Defense
 
-<img width="650" src="https://camo.githubusercontent.com/e86663235b4690432fc71048a0c53929ac2768171e31f45069a143b89d17b0c3/68747470733a2f2f692e696d6775722e636f6d2f414d5a394d4d352e6a706567">
+![image](https://github.com/user-attachments/assets/65650d4e-d12d-401f-bda4-4a7d1a2fa96b)
 
 ## Summary
 This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
@@ -568,6 +568,8 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 |Password Spraying|4625: An account failed to log on<br>4771: Kerberos pre-authentication failed<br>4648: A logon was attempted using explicit credentials|
 
 ### Resources
+* [Detecting and Mitigating Active Directory Compromises](https://www.cisa.gov/resources-tools/resources/detecting-and-mitigating-active-directory-compromises)
+* [Active Directory: Tactical Containment to Curb Domain Dominance](https://www.sans.edu/cyber-research/active-directory-tactical-containment-to-curb-domain-dominance/)
 * [Total Identity Compromise: DART lessons on securing Active Directory](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-dart-lessons-on-securing-active/ba-p/3753391)
 * [How to manage the changes in Netlogon secure channel connections associated with CVE-2020-1472](https://support.microsoft.com/en-us/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc)
 * [Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
