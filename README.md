@@ -62,6 +62,10 @@ This document was designed to be a useful, informational asset for those looking
 
 ## Privilege Escalation
 
+### BadSuccessor
+* [BadSuccessor: Abusing dMSA to Escalate Privileges in Active Directory](https://www.akamai.com/blog/security-research/abusing-dmsa-for-privilege-escalation-in-active-directory)
+* [Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation](https://medium.com/seercurity-spotlight/operationalizing-the-badsuccessor-abusing-dmsa-for-domain-privilege-escalation-429cefc36187)
+
 ### sAMAccountName Spoofing
 * [sAMAccountName spoofing](https://www.thehacker.recipes/ad/movement/kerberos/samaccountname-spoofing)
 * [CVE-2021-42287/CVE-2021-42278 Weaponisation](https://exploit.ph/cve-2021-42287-cve-2021-42278-weaponisation.html)
@@ -355,6 +359,7 @@ Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.c
 * [The Unintended Risks of Trusting Active Directory](https://www.slideshare.net/harmj0y/the-unintended-risks-of-trusting-active-directory)
 
 ## Tools & Scripts
+* [BadSuccessor](https://github.com/akamai/BadSuccessor) - This repository contains tooling related to the BadSuccessor attack - a novel Active Directory privilege escalation technique that abuses a vulnerability in a feature introduced in Windows Server 2025.
 * [AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses.
 * [Certify](https://github.com/GhostPack/Certify) - Certify is a C# tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
 * [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) - PowerShell toolkit for auditing Active Directory Certificate Services (AD CS).
